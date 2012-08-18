@@ -1,0 +1,6 @@
+[PyBot]
+server = irc.freenode.net
+port = 6667
+ssl = 1
+log_file = test.log
+channel = test
