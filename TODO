@@ -1,0 +1,42 @@
+* 
+factoids is/forget/update/<action>, karma, seen, topten (lines spoken)
+status
+help 
+    help modules
+
+update weather to use wunderground
+
+tinyurl.pm  -backwards as well
+stockquote.pm
+spell.pm
+rot13.pm
+ups.pm
+ping.pm
+reset.pm - reload modules
+praise.pm
+babel.pm
+combinatorics.pm
+greeting.pm
+math.pm
+urls - fetch title
+exchange.pm
+excuse
+lastlog
+fuzzyclock.pm
+message_center.pm
+
+cool debugging stuff?
+units.pm ?
+
+wakeup - shut up and wake up 
+    -turn on optional addressing?
+
+check_for_new
+    every 15 min
+    twitter, github notifications
+    pubsubhubbub
+
+movies opening this week
+box office
+
+wikipedia summary
